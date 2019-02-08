@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_education" table="x_290998_indicomm_job_requests" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_education</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bachelor</label>
+            <language>en</language>
+            <name>x_290998_indicomm_job_requests</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-04 17:06:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95762ae3db9327001d61711ebf961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-04 17:06:12</sys_updated_on>
+            <value>bachelor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_education</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Master</label>
+            <language>en</language>
+            <name>x_290998_indicomm_job_requests</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-04 17:06:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d762ae3db9327001d61711ebf961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-04 17:06:12</sys_updated_on>
+            <value>master</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_education</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PGDM</label>
+            <language>en</language>
+            <name>x_290998_indicomm_job_requests</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-04 17:06:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5762ae3db9327001d61711ebf961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-04 17:06:12</sys_updated_on>
+            <value>pgdm</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_education</element>
+            <name>x_290998_indicomm_job_requests</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-04 17:06:12</sys_created_on>
+            <sys_id>11762ae3db9327001d61711ebf961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_education</sys_name>
+            <sys_package display_value="IndiComm" source="x_290998_indicomm">4f1dfa16db9763001d61711ebf9619d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IndiComm">4f1dfa16db9763001d61711ebf9619d4</sys_scope>
+            <sys_update_name>sys_choice_x_290998_indicomm_job_requests_u_education</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-04 17:06:12</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

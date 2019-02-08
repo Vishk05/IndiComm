@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="job_type" label="Job Type" language="en" table="x_290998_indicomm_job_openings">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>job_type</element>
+            <help/>
+            <hint/>
+            <label>Job Type</label>
+            <language>en</language>
+            <name>x_290998_indicomm_job_openings</name>
+            <plural>Job Types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-04 20:46:25</sys_created_on>
+            <sys_id>4bd81f23db1727001d61711ebf9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Job Type</sys_name>
+            <sys_package display_value="IndiComm" source="x_290998_indicomm">4f1dfa16db9763001d61711ebf9619d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IndiComm">4f1dfa16db9763001d61711ebf9619d4</sys_scope>
+            <sys_update_name>sys_documentation_x_290998_indicomm_job_openings_job_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-04 20:46:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

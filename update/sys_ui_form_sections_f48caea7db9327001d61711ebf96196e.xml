@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="f48caea7db9327001d61711ebf96196e" sys_domain="global" table="x_290998_indicomm_job_requests" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-04 17:32:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>788ceea7db9327001d61711ebf9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_290998_indicomm_job_requests" name="x_290998_indicomm_job_requests" sys_domain="global" view="b48caea7db9327001d61711ebf961969">f48caea7db9327001d61711ebf96196e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_290998_indicomm_job_requests" sys_domain="global" view="b48caea7db9327001d61711ebf961969">7c8caea7db9327001d61711ebf96196c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-04 17:32:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-04 17:32:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>348ceea7db9327001d61711ebf9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_290998_indicomm_job_requests" name="x_290998_indicomm_job_requests" sys_domain="global" view="b48caea7db9327001d61711ebf961969">f48caea7db9327001d61711ebf96196e</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_290998_indicomm_job_requests" sys_domain="global" view="b48caea7db9327001d61711ebf961969">348caea7db9327001d61711ebf96196d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-04 17:32:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-04 17:32:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>098c22e7db9327001d61711ebf961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_290998_indicomm_job_requests" name="x_290998_indicomm_job_requests" sys_domain="global" view="b48caea7db9327001d61711ebf961969">f48caea7db9327001d61711ebf96196e</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_290998_indicomm_job_requests" sys_domain="global" view="b48caea7db9327001d61711ebf961969">f88caea7db9327001d61711ebf96196d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-04 17:32:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_290998_indicomm_job_requests</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-04 17:32:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f48caea7db9327001d61711ebf96196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_290998_indicomm_job_requests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IndiComm" source="x_290998_indicomm">4f1dfa16db9763001d61711ebf9619d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IndiComm">4f1dfa16db9763001d61711ebf9619d4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_f48caea7db9327001d61711ebf96196e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-04 17:32:40</sys_updated_on>
+            <sys_user/>
+            <view display_value="Applicant" name="Applicant">b48caea7db9327001d61711ebf961969</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

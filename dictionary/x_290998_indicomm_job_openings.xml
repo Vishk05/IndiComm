@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Job Openings" max_length="40" name="x_290998_indicomm_job_openings" sizeclass="15" type="collection">
+        <element label="Job Location" max_length="15" name="job_location" type="string"/>
+        <element choice="3" default="Full Time" label="Job Type" max_length="15" name="job_type" type="string">
+            <choice/>
+        </element>
+        <element label="Other location" max_length="15" name="other_location" type="string"/>
+        <element label="Primary Skills" max_length="20" name="primary_skills" type="string"/>
+        <element label="Required Date" max_length="15" name="required_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Positions" max_length="40" name="u_job_positions" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Type" max_length="40" name="u_job_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other locations" max_length="40" name="u_other_locations" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Primary Skills" max_length="40" name="u_primary_skills" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Publish Date" max_length="40" name="u_publish_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Required Date" max_length="40" name="u_required_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Work Location" max_length="40" name="u_work_location" type="string"/>
+    </element>
+</database>

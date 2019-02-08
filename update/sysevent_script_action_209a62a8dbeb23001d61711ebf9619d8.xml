@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_script_action">
+    <sysevent_script_action action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition_script/>
+        <description/>
+        <event_name>x_290998_indicomm.overdueJobOpenings</event_name>
+        <name>update job opening</name>
+        <order>100</order>
+        <script><![CDATA[current.short_description='updated by UI action';
+current.update();]]></script>
+        <synchronous>false</synchronous>
+        <sys_class_name>sysevent_script_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-07 20:00:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>209a62a8dbeb23001d61711ebf9619d8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>update job opening</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IndiComm" source="x_290998_indicomm">4f1dfa16db9763001d61711ebf9619d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IndiComm">4f1dfa16db9763001d61711ebf9619d4</sys_scope>
+        <sys_update_name>sysevent_script_action_209a62a8dbeb23001d61711ebf9619d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-07 20:36:23</sys_updated_on>
+    </sysevent_script_action>
+</record_update>
